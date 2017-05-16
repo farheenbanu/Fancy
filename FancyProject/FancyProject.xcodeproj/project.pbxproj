@@ -12,6 +12,7 @@
 		C950B27C1ECABBFC00139277 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C950B27A1ECABBFC00139277 /* Main.storyboard */; };
 		C950B27E1ECABBFC00139277 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C950B27D1ECABBFC00139277 /* Assets.xcassets */; };
 		C950B2811ECABBFC00139277 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C950B27F1ECABBFC00139277 /* LaunchScreen.storyboard */; };
+		C950B2891ECAC4FD00139277 /* Fancy.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C950B2881ECAC4FD00139277 /* Fancy.storyboard */; };
 		FE25D3DC1ECAC32000BA8367 /* AshmitaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE25D3DB1ECAC32000BA8367 /* AshmitaViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -23,6 +24,7 @@
 		C950B27D1ECABBFC00139277 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C950B2801ECABBFC00139277 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C950B2821ECABBFC00139277 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C950B2881ECAC4FD00139277 /* Fancy.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Fancy.storyboard; sourceTree = "<group>"; };
 		FE25D3DB1ECAC32000BA8367 /* AshmitaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AshmitaViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -63,6 +65,7 @@
 				C950B27F1ECABBFC00139277 /* LaunchScreen.storyboard */,
 				C950B2821ECABBFC00139277 /* Info.plist */,
 				FE25D3DB1ECAC32000BA8367 /* AshmitaViewController.swift */,
+				C950B2881ECAC4FD00139277 /* Fancy.storyboard */,
 			);
 			path = FancyProject;
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C950B2891ECAC4FD00139277 /* Fancy.storyboard in Resources */,
 				C950B2811ECABBFC00139277 /* LaunchScreen.storyboard in Resources */,
 				C950B27E1ECABBFC00139277 /* Assets.xcassets in Resources */,
 				C950B27C1ECABBFC00139277 /* Main.storyboard in Resources */,
