@@ -12,6 +12,7 @@
 		C950B27C1ECABBFC00139277 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C950B27A1ECABBFC00139277 /* Main.storyboard */; };
 		C950B27E1ECABBFC00139277 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C950B27D1ECABBFC00139277 /* Assets.xcassets */; };
 		C950B2811ECABBFC00139277 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C950B27F1ECABBFC00139277 /* LaunchScreen.storyboard */; };
+		FE25D3DC1ECAC32000BA8367 /* AshmitaViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE25D3DB1ECAC32000BA8367 /* AshmitaViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		C950B27D1ECABBFC00139277 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C950B2801ECABBFC00139277 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C950B2821ECABBFC00139277 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FE25D3DB1ECAC32000BA8367 /* AshmitaViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AshmitaViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				C950B27D1ECABBFC00139277 /* Assets.xcassets */,
 				C950B27F1ECABBFC00139277 /* LaunchScreen.storyboard */,
 				C950B2821ECABBFC00139277 /* Info.plist */,
+				FE25D3DB1ECAC32000BA8367 /* AshmitaViewController.swift */,
 			);
 			path = FancyProject;
 			sourceTree = "<group>";
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FE25D3DC1ECAC32000BA8367 /* AshmitaViewController.swift in Sources */,
 				C950B2791ECABBFC00139277 /* ViewController.swift in Sources */,
 				C950B2771ECABBFC00139277 /* AppDelegate.swift in Sources */,
 			);
@@ -299,6 +303,7 @@
 				C950B2871ECABBFC00139277 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
